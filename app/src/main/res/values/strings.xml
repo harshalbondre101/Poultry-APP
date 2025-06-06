@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MaterialDashboard</string>
+    <string name="desc_profile_icon">Profile Icon</string>
+    <string name="desc_notification_icon">Notification Icon</string>
+    <string name="desc_add_data">PA</string>
+</resources>
