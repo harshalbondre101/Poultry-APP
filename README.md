@@ -16,11 +16,11 @@ This Android application is designed for poultry farm management, focusing on da
 - **UI Design**: Minimal, modern interface using Jetpack Compose and Material 3 components, with a dark theme and SVG-based VectorDrawable icons.
 
 ## Screenshots
-https://github.com/harshalbondre101/Poultry-APP-/blob/main/screenshots/1000137262.jpg
+https://github.com/harshalbondre101/Poultry-APP/blob/main/screenshots/1000137262.jpg
 
-https://github.com/harshalbondre101/Poultry-APP-/blob/main/screenshots/1000137263.jpg
+https://github.com/harshalbondre101/Poultry-APP/blob/main/screenshots/1000137263.jpg
 
-https://github.com/harshalbondre101/Poultry-APP-/blob/main/screenshots/1000137264.jpg
+https://github.com/harshalbondre101/Poultry-APP/blob/main/screenshots/1000137264.jpg
 
 
 ## Technical Stack
